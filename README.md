@@ -33,6 +33,8 @@ The app supports separate learner profiles on the same device. Use the **Users**
 - Four bullet prompts and four TAD–REES planning cards for every Part 2 task
 - Basic (CEFR A1–A2) and Intermediate (CEFR B1–B2) support paths
 - Guided recording with the script visible, followed by independent recording from prompts and keywords
+- A choice after every recording to download it to the learner's device or discard it without saving
+- MP4 audio download when supported by the browser, with WebM as the compatible fallback
 - A 20-second preparation timer and one-minute recording limit
 - Part 3 Collaborative Discussion with 8 learner-selectable topics
 - Five prompt-by-prompt rounds: both the learner and AI partner give an opinion on every prompt, agree or disagree politely, develop the idea, then negotiate and close

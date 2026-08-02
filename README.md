@@ -33,7 +33,7 @@ A mobile-first SPM English-speaking practice app for students. This GitHub Pages
 - Guided recording with the script visible, followed by independent recording from prompts and keywords
 - A 20-second preparation timer and one-minute recording limit
 - Part 3 Collaborative Discussion with 8 learner-selectable topics
-- Five-turn AI partner exchange: initiate, respond, develop, question, negotiate, and close
+- Five prompt-by-prompt rounds: both the learner and AI partner give an opinion on every prompt, agree or disagree politely, develop the idea, then negotiate and close
 - Mind-map options, Basic and Intermediate sentence support, and voice recording for every learner turn
 - Final assessment remains hidden until the complete discussion ends
 - Part 3 feedback covers interaction, Grammar, Vocabulary, Communicative Competence, and Overall Spoken Performance

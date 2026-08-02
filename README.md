@@ -2,6 +2,8 @@
 
 A mobile-first SPM English-speaking practice app for students. This GitHub Pages version runs as a normal static HTTPS website and does not require Google Apps Script.
 
+The app supports separate learner profiles on the same device. Use the **Users** button to create a new nickname profile or return to a saved learner without mixing progress, tokens or badges.
+
 ## Publish with GitHub Pages
 
 1. Upload `index.html` to the root of your GitHub repository.

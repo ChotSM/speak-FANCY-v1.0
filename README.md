@@ -19,13 +19,21 @@ A mobile-first SPM English-speaking practice app for students. This GitHub Pages
 - If transcription is unavailable, the app clearly falls back to the improved written response and learner self-check.
 - Student progress is stored in the browser using `localStorage`.
 
-## Version 1 scope
+## Current scope
 
 - Part 1 Interview learning loop
 - TAD–REES: optional Transition + Direct Answer + one Research, Example, Experience, or Situation detail
-- Optional Transition
 - Attempt 1, feedback, revision, Attempt 2
 - Indicative Bands 0–6 for Grammar, Vocabulary, Communicative Competence, and Overall Spoken Performance
 - Descriptor-based feedback aligned with the uploaded Keningau speaking assessment scale
 - Practice assessment, badge, reward, and retry
-- Part 2 and Part 3 shown as Coming Soon
+- Part 2 Individual Long Turn with 10 learner-selectable topics
+- Four bullet prompts and four TAD–REES planning cards for every Part 2 task
+- Basic (CEFR A1–A2) and Intermediate (CEFR B1–B2) support paths
+- Guided recording with the script visible, followed by independent recording from prompts and keywords
+- A 20-second preparation timer and one-minute recording limit
+- Part 3 shown as Coming Soon
+
+## Part 2 topic bank
+
+The app includes Learning a New Skill, A Restaurant You Like, A Book You Have Read, Preparing for a Trip, A Successful Person, My Favourite Photograph, A New Friend, Cleaning Up at Home, My Holiday Plan, and A Mobile Game. The tasks were formulated from the uploaded `HTGR 2026.docx` and `Proposed concept.docx` references.

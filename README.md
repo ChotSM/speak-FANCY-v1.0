@@ -32,8 +32,16 @@ A mobile-first SPM English-speaking practice app for students. This GitHub Pages
 - Basic (CEFR A1–A2) and Intermediate (CEFR B1–B2) support paths
 - Guided recording with the script visible, followed by independent recording from prompts and keywords
 - A 20-second preparation timer and one-minute recording limit
-- Part 3 shown as Coming Soon
+- Part 3 Collaborative Discussion with 8 learner-selectable topics
+- Five-turn AI partner exchange: initiate, respond, develop, question, negotiate, and close
+- Mind-map options, Basic and Intermediate sentence support, and voice recording for every learner turn
+- Final assessment remains hidden until the complete discussion ends
+- Part 3 feedback covers interaction, Grammar, Vocabulary, Communicative Competence, and Overall Spoken Performance
 
 ## Part 2 topic bank
 
 The app includes Learning a New Skill, A Restaurant You Like, A Book You Have Read, Preparing for a Trip, A Successful Person, My Favourite Photograph, A New Friend, Cleaning Up at Home, My Holiday Plan, and A Mobile Game. The tasks were formulated from the uploaded `HTGR 2026.docx` and `Proposed concept.docx` references.
+
+## Part 3 topic bank
+
+The app includes Teenagers’ Fashion Sense, Learning a New Language, A Greener School, A Healthy Lifestyle, Promoting Sabah Tourism, A Successful School Event, Encouraging Reading, and Helping the Community. The activity structure follows the collaborative discussion, decision-making, and further-discussion patterns in the uploaded references.

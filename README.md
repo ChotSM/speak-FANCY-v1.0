@@ -15,13 +15,17 @@ A mobile-first SPM English-speaking practice app for students. This GitHub Pages
 - Open the published HTTPS link, not the GitHub code-preview page.
 - When prompted, choose **Allow microphone**.
 - Recordings remain in the current browser tab and are not uploaded.
+- On supported browsers, live English speech recognition creates a transcript used for practice feedback.
+- If transcription is unavailable, the app clearly falls back to the improved written response and learner self-check.
 - Student progress is stored in the browser using `localStorage`.
 
 ## Version 1 scope
 
 - Part 1 Interview learning loop
-- Direct Answer + One Relevant Detail
+- TAD–REES: optional Transition + Direct Answer + one Research, Example, Experience, or Situation detail
 - Optional Transition
 - Attempt 1, feedback, revision, Attempt 2
+- Indicative Bands 0–6 for Grammar, Vocabulary, Communicative Competence, and Overall Spoken Performance
+- Descriptor-based feedback aligned with the uploaded Keningau speaking assessment scale
 - Practice assessment, badge, reward, and retry
 - Part 2 and Part 3 shown as Coming Soon

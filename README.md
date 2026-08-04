@@ -2,6 +2,8 @@
 
 Part 2 includes a live six-point checklist for every prompt. Criteria automatically turn into green ticks as the learner completes a suitable transition, direct answer, complete thought, developed detail, matching REES support, and English-only response.
 
+Transition-bank build: 2026.08.04-TX2. Part 2 now displays 12 opening transitions, 18 sequencing/addition transitions for Prompts 2 and 3, and 12 final-point transitions. Used choices disappear from later compatible lists.
+
 Static GitHub Pages build of the Speak FANCY speaking-practice app.
 
 ## This update

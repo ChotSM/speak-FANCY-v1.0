@@ -1,5 +1,7 @@
 # Speak FANCY
 
+Part 2 includes a live six-point checklist for every prompt. Criteria automatically turn into green ticks as the learner completes a suitable transition, direct answer, complete thought, developed detail, matching REES support, and English-only response.
+
 Static GitHub Pages build of the Speak FANCY speaking-practice app.
 
 ## This update
@@ -16,6 +18,8 @@ The Part 2 checker now evaluates response quality through:
 - coherence and overall communicative effectiveness.
 
 Response length alone does not increase a learner's band.
+
+Part 2 planning now also gives supportive, diagnostic feedback immediately after each completed prompt. After all four prompts are complete, the app combines the learner's TAD–REES units into one connected speaking script for review before Guided Recording.
 
 ## Publish on GitHub Pages
 
